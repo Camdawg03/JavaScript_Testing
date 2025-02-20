@@ -23,4 +23,4 @@ ScrollReveal().reveal('.Work', {delay: 2200});
 
 
 ScrollReveal().reveal('.Frens', { easing: 'ease-in' });
-ScrollReveal().reveal('.Frens', {delay: 2300});
+ScrollReveal().reveal('.Frens', {delay: 2200});
